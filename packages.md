@@ -1,0 +1,9 @@
+Git
+Python
+Kubernetes
+Docker
+AWS
+Nginx
+Terraform
+Ansible
+Jenkins
